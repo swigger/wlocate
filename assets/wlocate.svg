@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 64 64">
+  <title>WLocate green magnifying glass</title>
+  <defs><linearGradient id="green" x1="0" y1="2" x2="0" y2="48" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#68eb8d"/><stop offset="1" stop-color="#16a34a"/>
+  </linearGradient></defs>
+  <path d="M7 56 L25 38" fill="none" stroke="#14532d" stroke-width="13" stroke-linecap="round"/>
+  <path d="M7 55 L25 37" fill="none" stroke="#22c55e" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="39" cy="25" r="19" fill="none" stroke="#14532d" stroke-width="10"/>
+  <circle cx="39" cy="25" r="19" fill="none" stroke="url(#green)" stroke-width="7"/>
+  <path d="M22.66 21.53 A16.7 16.7 0 0 1 42.47 8.66" fill="none" stroke="#c0fcd1" stroke-width="1.6" stroke-linecap="round"/>
+</svg>
